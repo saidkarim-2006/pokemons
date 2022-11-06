@@ -1,0 +1,74 @@
+body {
+    background-color: #ffd845;
+}
+
+.card {
+    width: 307px;
+    height: 427px;
+    margin: 1%;
+    padding: 0;
+    justify-content: space-around;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: block;
+    padding: 20px;
+}
+
+.col-3 {
+    padding: 0;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+h5 {
+    padding-right: 20px;
+}
+
+.rasm {
+    width: 30px;
+    position: absolute;
+    right: 15%;
+    top: 53%;
+}
+
+hr {
+    opacity: 1;
+    border: 2px solid black;
+    color: black;
+    background-color: black;
+}
+
+.p-logo {
+    width: 610px;
+    height: 225px;
+}
+
+.p-logo1 {
+    position: absolute;
+    right: 10%;
+    top: 8%;
+}
+
+.search-b {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    width: 150px;
+    height: 40px;
+    text-align: start;
+    border-radius: 10px;
+    border: 2px solid black;
+}
